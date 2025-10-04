@@ -82,29 +82,7 @@ pip install -r requirements.txt
 jupyter notebook project_demo.ipynb
 ```
 
-## 🔮 Future Enhancements & Next Steps
-
-### 1. **Advanced Machine Learning Integration**
-- Implement **Isolation Forest** algorithms for anomaly detection
-- Develop **Random Forest** models for fraud case forecasting
-- Build **neural networks** for pattern recognition in fraud behavior
-
-### 2. **Enhanced Data Integration**
-- Incorporate transaction-level datasets (e.g., **PaySim Kaggle dataset**)
-- Add demographic and geographic fraud distribution analysis
-- Include seasonal and temporal pattern analysis
-
-### 3. **Real-time Monitoring Dashboard**
-- Build **interactive Plotly/Dash** dashboard for live fraud monitoring
-- Implement **alert systems** for unusual fraud spike detection
-- Create **automated reporting** for stakeholders
-
-### 4. **Advanced Analytics Pipeline**
-- **Time series forecasting** using ARIMA/Prophet models
-- **Seasonal decomposition** analysis for cyclical patterns
-- **Network analysis** for fraud detection and prevention strategies
-
-## 📄 Data Sources & Methodology
+##  Data Sources & Methodology
 
 - **Primary Data**: Open Government Data Platform India (data.gov.in)
 - **Data Processing**: Aggregation of RBI reported fraud cases
