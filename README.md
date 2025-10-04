@@ -93,17 +93,17 @@ jupyter notebook project_demo.ipynb
 
 This project uses **open government data** and is available for educational and research purposes. For production fraud detection systems, additional privacy-compliant data sources and enhanced security models would be required.
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to enhance this analysis.
+Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to enhance this analysis. -->
 
 ---
 
 <div align="center">
 
-**Built with ❤️ using Open Government Data**  
+**Built using Open Government Data**  
 *Last updated: October 2024*
 
-[🔍 Explore the Code](project_demo.ipynb) | [📊 View Dataset](data/rbi_fraud_data.csv) | [📈 See Visualizations](images/)
+[🔍 Explore the Code](project_demo.ipynb) | [📊 View Dataset](rbi_fraud_data.csv) | [📈 See Visualizations](images/)
 
 </div>
