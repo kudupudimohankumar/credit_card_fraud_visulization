@@ -82,7 +82,7 @@ pip install -r requirements.txt
 jupyter notebook project_demo.ipynb
 ```
 
-##  Data Sources & Methodology
+## 📄 Data Sources & Methodology
 
 - **Primary Data**: Open Government Data Platform India (data.gov.in)
 - **Data Processing**: Aggregation of RBI reported fraud cases
